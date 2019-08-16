@@ -1,6 +1,0 @@
-[submodule "admin/vendor/w6/silex-imagine-provider"]
-	path = admin/vendor/w6/silex-imagine-provider
-	url = ../../brunoew/silex-imagine-service-provider.git
-[submodule "admin/vendor/doctrine/dbal"]
-	path = admin/vendor/doctrine/dbal
-	url = ../../doctrine/dbal.git
