@@ -115,14 +115,6 @@
         }
     },
     "4": {
-        "name": _("Karaoke"),
-        "alias": "karaoke",
-        "icon": "fa fa-microphone",
-        "icon2": "",
-        "action": {
-        }
-    },
-    "5": {
         "name": _("Radio"),
         "alias": "radio",
         "icon": "fa fa-bullhorn",
@@ -130,30 +122,7 @@
         "action": {
         }
     },
-    "6": {
-        "name": _("Tariffs"),
-        "alias": "tariffs",
-        "icon": "fa fa-calculator",
-        "icon2": "pull-right fa fa-chevron-left",
-        "action": {
-            "1": {
-                "name": _("Service packages"),
-                "alias": "service-packages",
-                "icon": ""
-            },
-            "2": {
-                "name": _("Tariff plans"),
-                "alias": "tariff-plans",
-                "icon": ""
-            },
-            "3": {
-                "name": _("Subscribe log"),
-                "alias": "subscribe-log",
-                "icon": ""
-            }
-        }
-    },
-    "7": {
+    "5": {
         "name": _("Users"),
         "alias": "users",
         "icon": "fa  fa-users",
@@ -191,7 +160,7 @@
             }
         }
     },
-	"8": {
+	"6": {
         "name": _("License keys"),
         "new": true,
         "alias": "license-keys",
@@ -210,7 +179,7 @@
             }
         }
     },
-    "9": {
+    "7": {
         "name": _("Applications"),
         "alias": "application-catalog",
         "icon": "fa fa-rocket",
@@ -228,7 +197,7 @@
             }
         }
     },
-    "10": {
+    "8": {
         "name": _("Events"),
         "alias": "events",
         "icon": "fa fa-calendar",
@@ -251,7 +220,7 @@
             }
         }
     },
-    "11": {
+    "9": {
         "name": _("Administrators"),
         "alias": "admins",
         "icon": "fa fa-user-secret",
@@ -274,7 +243,7 @@
             }
         }
     },
-    "12": {
+    "10": {
         "name": _("Tasks"),
         "alias": "tasks",
         "icon": "fa fa-check",
@@ -292,7 +261,7 @@
             }
         }
     },
-    "13": {
+    "11": {
         "name": _("Information portal"),
         "alias": "infoportal",
         "icon": "fa fa-info",
@@ -310,7 +279,7 @@
             }
         }
     },
-    "14": {
+    "12": {
         "name": _("Statistics"),
         "alias": "statistics",
         "icon": "fa fa-pie-chart",
@@ -358,7 +327,7 @@
             }
         }
     },
-    "15": {
+    "13": {
         "name": _("Storage"),
         "alias": "storages",
         "icon": "fa fa-archive",
@@ -381,7 +350,7 @@
             }
         }
     },
-    "16": {
+    "14": {
         "name": _("Streaming servers"),
         "alias": "broadcast-servers",
         "icon": "fa fa-server",
@@ -399,7 +368,7 @@
             }
         }
     },
-    "17": {
+    "15": {
         "name": _("Settings"),
         "alias": "settings",
         "icon": "fa fa-cogs",
@@ -417,7 +386,7 @@
             }
         }
     },
-    "18": {
+    "16": {
         "name": _("Advertising"),
         "alias": "external-advertising",
         "icon": "fa fa-dollar",
