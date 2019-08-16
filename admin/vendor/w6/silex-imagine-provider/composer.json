@@ -1,0 +1,25 @@
+{
+    "name": "w6/silex-imagine-provider",
+    "description": "Silex Imagine Provider",
+    "keywords": ["imagine", "silex", "image processing"],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "require-dev": {
+        "imagine/imagine": "dev-master",
+        "silex/silex": "2.0.*@dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bruno Wiltemburg",
+            "email": "brunoew@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload":{
+        "psr-0":{
+            "W6": "src/"
+        }
+    }
+}
