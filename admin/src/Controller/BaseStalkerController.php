@@ -189,7 +189,7 @@ class BaseStalkerController {
         $workUrl = explode("?", str_replace(array($action, $controller), '', $this->Uri));
         $this->workURL = $workUrl[0];
 
-        $this->app['breadcrumbs']->addItem('Ministra', $this->workURL);
+        $this->app['breadcrumbs']->addItem('Niagara TV', $this->workURL);
         $this->refferer = $this->request->server->get('HTTP_REFERER');
 
         if ($this->app['stalker_env'] == 'min') {
