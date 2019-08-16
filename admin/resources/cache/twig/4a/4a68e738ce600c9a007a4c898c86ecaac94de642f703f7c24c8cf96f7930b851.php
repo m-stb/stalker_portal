@@ -1,0 +1,283 @@
+<?php
+
+use Twig\Environment;
+use Twig\Error\LoaderError;
+use Twig\Error\RuntimeError;
+use Twig\Markup;
+use Twig\Sandbox\SecurityError;
+use Twig\Sandbox\SecurityNotAllowedTagError;
+use Twig\Sandbox\SecurityNotAllowedFilterError;
+use Twig\Sandbox\SecurityNotAllowedFunctionError;
+use Twig\Source;
+use Twig\Template;
+
+/* default/Settings/themes/themes.css */
+class __TwigTemplate_fdbb1224dc69917192eaff9997403d4a4f2dc368300249f9e0fe907601aeba18 extends \Twig\Template
+{
+    public function __construct(Environment $env)
+    {
+        parent::__construct($env);
+
+        $this->parent = false;
+
+        $this->blocks = [
+        ];
+    }
+
+    protected function doDisplay(array $context, array $blocks = [])
+    {
+        // line 1
+        echo "#main-wrapper #iptv_list > .row:first-of-type {
+    padding: 0 !important;
+    border-bottom: 0 none;
+}
+
+#iptv_list form label {
+    color: #424242;
+    font-weight: normal;
+    margin-top: 0;
+}
+
+.supported-devices {
+    float: left;
+    text-align: center;
+    margin-right: 3px;
+}
+
+.supported-devices img {
+    margin: 10px 0;
+}
+
+.supported-devices .platform-name {
+    display: block;
+    color: #555;
+    font-size: 10px;
+    /*font-family: PTSans;*/
+    line-height: 1.2em;
+    height: 0px;
+    max-width: 60px;
+    overflow: hidden;
+}
+
+tr:hover .platform-name {
+    display: block;
+    visibility: visible;
+    height: auto;
+}
+
+table.dataTable.compact tbody td.theme-preview{
+    /*height: 360px;
+    max-width: 165px !important;
+    max-height: 65px !important;*/
+    padding: 9px 9px 6px;
+}
+
+table td.theme-preview .launcher-preview img {
+    cursor: pointer;
+}
+
+.fancybox {
+    /*width: 177px;*/
+}
+
+.launcher-preview {
+    text-align: center;
+    width: 168px;
+    height: 63px;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+}
+
+.launcher-preview .classic-theme > img{
+    max-height: 100%;
+}
+
+.launcher-preview img.launcher-bg-screen {
+    /*width: 376px;*/
+    height: 63px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.launcher-preview > div {
+    position: absolute;
+}
+
+.launcher-preview img.launcher-bg{
+    position: absolute;
+    min-width: 100%;
+    max-width: 100%;
+    min-height: 100%;
+    max-height: 100%;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.launcher-preview .res-1080 {
+    /*top: 11px;
+    left: 236px;
+    width: 638px;
+    height: 358px;*/
+
+    top: 2.6%;
+    left: 20.922%;
+    width: 56.5603%;
+    height: 84.63357%;
+
+    z-index: -4;
+}
+
+.launcher-preview .res-720 {
+
+    /*top:175px;
+    left: 49px;
+    width: 325px;
+    height: 201px;*/
+
+    top: 41.3711584%;
+    left: 4.34397%;
+    width: 28.812%;
+    height: 47.51773%;
+
+    z-index: -3;
+}
+
+.launcher-preview .res-576 {
+
+    /*top: 223px;
+    left: 877px;
+    width: 231px;
+    height: 173px;*/
+
+    top: 52.718676%;
+    left: 77.748227%;
+    width: 20.4787234%;
+    height: 40.898345%;
+
+    z-index: -2;
+}
+
+.launcher-preview .res-480 {
+    /*top: 305px;
+    left: 671px;
+    width: 166px;
+    height: 96px;*/
+
+    top: 72.10402%;
+    left: 59.4858156%;
+    width: 14.716312%;
+    height: 22.695%;
+
+    z-index: -1;
+}
+
+.launcher-preview img.launcher-logo{
+    max-width: 15.62%;
+    max-height: 13%;
+    margin-top: 5%;
+    margin-left: 4.53%;
+    display: block;
+}
+
+.launcher-preview .res-1080 img.launcher-logo {
+    max-width: 15.5%;
+    margin-top: 2%;
+    margin-left: 5.5%;
+}
+
+.launcher-preview .res-1080 img.launcher-logo.align-right{
+    margin-right: 14.2%;
+}
+
+.launcher-preview  .res-720 img.launcher-logo{
+    max-width: 15.7%;
+    margin-top: 3.7%;
+    margin-left: 5.9%;
+}
+
+.launcher-preview  .res-720 img.launcher-logo.align-right{
+    margin-right: 14.2%;
+}
+
+.launcher-preview  .res-576 img.launcher-logo{
+    margin-top: 5.21%;
+    margin-left: 5.21%;
+}
+
+.launcher-preview  .res-576 img.launcher-logo.align-right{
+    margin-right: 5.21%;
+}
+
+.launcher-preview  .res-480 img.launcher-logo{
+    margin-top: 5.21%;
+    margin-left: 5.21%;
+}
+
+.launcher-preview  .res-480 img.launcher-logo.align-right{
+    margin-right: 5.21%;
+}
+
+.launcher-preview  img.launcher-logo.align-right{
+    margin-left: auto;
+}
+
+.launcher-preview  img.launcher-logo.align-center{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.fancybox-wrap .launcher-preview{
+    min-height: 300px;
+    width: 800px;
+    height: auto;
+}
+
+.fancybox-wrap .launcher-preview img.launcher-bg-screen{
+    width: 100%;
+    height: auto;
+}
+
+.fancybox-wrap .launcher-preview .classic-theme > img{
+    max-width: 100%;
+}
+
+.themes-list.supported-devices > img{
+    max-height: 22px;
+}
+
+.dataTable .tooltip-cell{
+    overflow: visible;
+}
+
+.dataTable .tooltip-inner{
+    padding: 3px 8px;
+    white-space: normal;
+}";
+    }
+
+    public function getTemplateName()
+    {
+        return "default/Settings/themes/themes.css";
+    }
+
+    public function getDebugInfo()
+    {
+        return array (  30 => 1,);
+    }
+
+    /** @deprecated since 1.27 (to be removed in 2.0). Use getSourceContext() instead */
+    public function getSource()
+    {
+        @trigger_error('The '.__METHOD__.' method is deprecated since version 1.27 and will be removed in 2.0. Use getSourceContext() instead.', E_USER_DEPRECATED);
+
+        return $this->getSourceContext()->getCode();
+    }
+
+    public function getSourceContext()
+    {
+        return new Source("", "default/Settings/themes/themes.css", "/var/www/html/stalker_portal/admin/resources/views/default/Settings/themes/themes.css");
+    }
+}

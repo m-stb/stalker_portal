@@ -1,0 +1,67 @@
+{
+  "author": {
+    "name": "Infomir",
+    "email": "support@infomir.eu"
+  },
+  "bundleDependencies": false,
+  "config": {
+    "type": "theme",
+    "name": "graphite"
+  },
+  "dependencies": {
+    "magcore-theme": "^1.5.0",
+    "magcore-theme-base": "^2.3.2"
+  },
+  "deprecated": false,
+  "description": "Graphite theme for magsdk",
+  "keywords": [
+    "magsdk",
+    "theme",
+    "graphite"
+  ],
+  "license": "GPL-3.0",
+  "name": "magcore-theme-graphite",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "build": "magcore-theme-base build",
+    "build-release": "magcore-theme-base build -p",
+    "icons": "magcore-theme-base icons",
+    "rebuild": "npm update magcore-theme-base && npm run build-release",
+    "watch": "magcore-theme-base watch",
+    "watch-release": "magcore-theme-base watch -p"
+  },
+  "version": "2.3.2",
+  "_id": "magcore-theme-graphite@2.3.2",
+  "_npmVersion": "6.1.0",
+  "_nodeVersion": "10.3.0",
+  "_npmUser": {
+    "name": "infomir",
+    "email": "darkpark.infomir@gmail.com"
+  },
+  "dist": {
+    "integrity": "sha512-SON7yU2XeOGoFuZrhgHp0Fi0kxiZRb7dalztCH8rRTljLZL3iUaxeFuMwfHQxXD/0Tfntwrq55KmW+wYu0fn1Q==",
+    "shasum": "663e17fbaebeafdcfb9b8eeef55a0c87bdc0b0c4",
+    "tarball": "https://registry.npmjs.org/magcore-theme-graphite/-/magcore-theme-graphite-2.3.2.tgz",
+    "fileCount": 68,
+    "unpackedSize": 1935047,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbmnjsCRA9TVsSAnZWagAABOIP/jRPEWFrHTX0hijnKcrS\nS6BZuGNUcboiAdcn1fwYC5G6EguVX9voXqK6WpR2U9/O4JQFl4ce5i88Yvnb\ngTA1PZc9nEWPKCb0UgLmnzNnRRQEll1vRRgdGUOhPZ38fOL4gUSo57Ap714Y\nVQicL9GyCD48Try5CanME847mKhKhetOH4nbbCJxLxLFcDcK7P+Q+d9bac/L\njpMAUaj+6+lhKT1r3/fTwaqGkSDl/+8d9+Fv0S+Ph+cbqh1QBz7KmalqWAzS\npqv6ZS9rveVPswa77yPUG/ytZ81vFoM7XBud6eruMk0h/TNlwLtdKP9Nxwdi\nu4VpaakXmM3lTmyWxo6XKcpYY5BSXcp+Zpcjl8/NQsd0vsHW8utVwx9cIapk\ntC82bot1qg5muv5swn69SaxejOl0qC9HdiKEKRu1wGCGReVpZnQ9rE354vv4\nAuIska+x97Ax1m2u7y7MRvXNYGtwk8AhjLMfmGIy4yEDXIwdf4qZQaGI/abB\nQZB8s/kkYj3MK/B6AYGqKNLN4hr2xQ/QakHlITrfQ+lAI8JCTNT8Oo2E5TzQ\nthQBIYmiyGrQWpX2Ut48DD0q7Uje5qIRZQLGzwF2LuzRic03jCjBXJUbFBFp\nhwdlimdmqOfOwAnZNn+h2UbREgJiqLqYi8gP6mNav4rIZNQdwDXh3Ko9LhTN\n4e2d\r\n=FMo/\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "maintainers": [
+    {
+      "name": "infomir",
+      "email": "darkpark.infomir@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/magcore-theme-graphite_2.3.2_1536850156023_0.35894252720715825"
+  },
+  "_hasShrinkwrap": false,
+  "_shasum": "663e17fbaebeafdcfb9b8eeef55a0c87bdc0b0c4",
+  "_resolved": "http://registry.npmjs.org/magcore-theme-graphite/-/magcore-theme-graphite-2.3.2.tgz",
+  "_from": "magcore-theme-graphite@2.3.2"
+}

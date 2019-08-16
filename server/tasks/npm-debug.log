@@ -1,0 +1,39 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/nodejs',
+1 verbose cli   '/usr/bin/npm',
+1 verbose cli   'view',
+1 verbose cli   'magcore-app-zoomby',
+1 verbose cli   '--json' ]
+2 info using npm@3.5.2
+3 info using node@v4.2.6
+4 silly mapToRegistry name magcore-app-zoomby
+5 silly mapToRegistry using default registry
+6 silly mapToRegistry registry http://registry.npmjs.org/
+7 silly mapToRegistry uri http://registry.npmjs.org/magcore-app-zoomby
+8 verbose request uri http://registry.npmjs.org/magcore-app-zoomby
+9 verbose request no auth needed
+10 info attempt registry request try #1 at 1:37:24 PM
+11 verbose request id 9eebca4c0f0d8cd7
+12 http request GET http://registry.npmjs.org/magcore-app-zoomby
+13 info retry will retry, error on last attempt: Error: getaddrinfo EAI_AGAIN registry.npmjs.org:80
+14 info attempt registry request try #2 at 1:37:34 PM
+15 http request GET http://registry.npmjs.org/magcore-app-zoomby
+16 info retry will retry, error on last attempt: Error: getaddrinfo EAI_AGAIN registry.npmjs.org:80
+17 info attempt registry request try #3 at 1:38:34 PM
+18 http request GET http://registry.npmjs.org/magcore-app-zoomby
+19 verbose stack Error: getaddrinfo EAI_AGAIN registry.npmjs.org:80
+19 verbose stack     at Object.exports._errnoException (util.js:870:11)
+19 verbose stack     at errnoException (dns.js:31:15)
+19 verbose stack     at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:77:26)
+20 verbose cwd /var/www/html/stalker_portal/server/tasks
+21 error Linux 4.15.0-55-generic
+22 error argv "/usr/bin/nodejs" "/usr/bin/npm" "view" "magcore-app-zoomby" "--json"
+23 error node v4.2.6
+24 error npm  v3.5.2
+25 error code EAI_AGAIN
+26 error errno EAI_AGAIN
+27 error syscall getaddrinfo
+28 error getaddrinfo EAI_AGAIN registry.npmjs.org:80
+29 error If you need help, you may report this error at:
+29 error     <https://github.com/npm/npm/issues>
+30 verbose exit [ 1, true ]

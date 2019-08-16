@@ -1,0 +1,180 @@
+Notice:
+Your portal may include services for streaming TV channels, the contents of which may be copyrighted. The use of third-party copyrighted materials requires documented evidence of your right to use such content in your services.
+Pursuant to the terms of this license agreement, you represent and warrant that your services do not infringe third-party rights, including intellectual property rights, and, in case of your breach of these representations and warranties, you agree to indemnify Infomir from any claims of third parties.
+We may reject your request for Ministra TV platform for any reason, at our sole discretion.
+
+License Agreement
+Before using Ministra TV platform (the "Program"), please read this License Agreement (the "License Agreement" or "Agreement") carefully. Any use of this Program means your full and express acceptance of this License Agreement. If you do not accept this License Agreement or any portion thereof, you are strictly prohibited from using the Program.
+
+1. Subject Matter
+  1.1 Subject to this Agreement, the company Infomir SA, a Swiss company (hereinafter - "Licensor"), which is the owner of exclusive rights for the Program, grants you (hereinafter - "You (Your)" or "User") the rights expressly specified in this Agreement.
+  1.2 The Program may be provided for Your use by Licensor upon Licensor’s approval of Your Program request form. It is at Licensor’s sole discretion to approve your form or to deny provision of the Program. Any use of the Program not requested through the form on the website www.infomir.eu is prohibited.
+  1.3 Use of the Program is permitted solely and strictly under the terms stipulated herein. If You do not accept this Agreement or any portion hereof, You are prohibited from using the Program. Use of the Program under the terms, by means, or in a way that is not expressly stipulated in this License Agreement is prohibited.
+  1.4 The use of the Program with unofficial and unoriginal Ministra Player applications is prohibited.
+
+2. Content
+  2.1 You represent and warrant that You have and at all times will have all necessary intellectual property rights to the content (such as television, video, audio, text, graphics, data) transmitted via the Program. You represent and warrant that the content transmitted via the Program will not infringe any third parties’ intellectual property rights, will not violate anyone’s personality rights, will not be obscene, immoral or otherwise objectionable, and will not violate any laws or regulations related to such content.
+  2.2 In no event will Licensor be responsible for any content transmitted via the Program. You agree to indemnify, defend and hold harmless Licensor from any claim, loss, or damage (and expenses incurred in the investigation and defence, including attorneys’ fees), arising from Your breach of representations and warranties set out herein
+
+3. Rights of the User
+  3.1 Subject to the terms of this License Agreement, Licensor grants to You personal, revocable, non-exclusive, non-transferable, royalty-free, worldwide license to use the Program solely for the purpose of provision of multimedia services such as television, video, audio, text, graphics, data delivered over Internet Protocol based networks to Your customers (subscribers-natural persons).
+  3.2 For the purposes of this License Agreement, the Core will mean the following elements (files) of the Program:
+  ./core.lic
+  ./server/lib/restapi/v3/files.class.php
+  ./server/lib/restapi/v3/advertising.class.php
+  ./server/lib/restapi/v3/tvchannel.class.php
+  ./server/lib/restapi/v3/moviesections.class.php
+  ./server/lib/restapi/v3/recordinglink.class.php
+  ./server/lib/restapi/v3/recordings.class.php
+  ./server/lib/restapi/v3/epg.class.php
+  ./server/lib/restapi/v3/tvprogram.class.php
+  ./server/lib/restapi/v3/movie.class.php
+  ./server/lib/restapi/v3/audioalbum.class.php
+  ./server/lib/restapi/v3/audioplaylist.class.php
+  ./server/lib/restapi/v3/networkdiagnostic.class.php
+  ./server/lib/restapi/v3/themedocument.class.php
+  ./server/lib/restapi/v3/tvprogramlink.class.php
+  ./server/lib/restapi/v3/agreement.class.php
+  ./server/lib/restapi/v3/tvchannels.class.php
+  ./server/lib/restapi/v3/moviefilelink.class.php
+  ./server/lib/restapi/v3/karaokelink.class.php
+  ./server/lib/restapi/v3/radiochannels.class.php
+  ./server/lib/restapi/v3/paymentinfo.class.php
+  ./server/lib/restapi/v3/episodes.class.php
+  ./server/lib/restapi/v3/audioplaylists.class.php
+  ./server/lib/restapi/v3/restapimanager.class.php
+  ./server/lib/restapi/v3/tvgenres.class.php
+  ./server/lib/restapi/v3/audioalbums.class.php
+  ./server/lib/restapi/v3/themes.class.php
+  ./server/lib/restapi/v3/restapitargetresolver.class.php
+  ./server/lib/restapi/v3/tvchannelsmodified.class.php
+  ./server/lib/restapi/v3/restapiresponse.class.php
+  ./server/lib/restapi/v3/movieepisode.class.php
+  ./server/lib/restapi/v3/restapidocument.class.php
+  ./server/lib/restapi/v3/tvchannelsdeleted.class.php
+  ./server/lib/restapi/v3/restapicollection.class.php
+  ./server/lib/restapi/v3/profile.class.php
+  ./server/lib/restapi/v3/settings.class.php
+  ./server/lib/restapi/v3/movieseason.class.php
+  ./server/lib/restapi/v3/storage.class.php
+  ./server/lib/restapi/v3/search.class.php
+  ./server/lib/restapi/v3/messageshistory.class.php
+  ./server/lib/restapi/v3/audiotracks.class.php
+  ./server/lib/restapi/v3/moviefile.class.php
+  ./server/lib/restapi/v3/moviegenres.class.php
+  ./server/lib/restapi/v3/message.class.php
+  ./server/lib/restapi/v3/karaoke.class.php
+  ./server/lib/restapi/v3/radiochannel.class.php
+  ./server/lib/restapi/v3/seasons.class.php
+  ./server/lib/restapi/v3/storagedocument.class.php
+  ./server/lib/restapi/v3/support.class.php
+  ./server/lib/restapi/v3/restapirequest.class.php
+  ./server/lib/restapi/v3/movies.class.php
+  ./server/lib/restapi/v3/audiogenres.class.php
+  ./server/lib/restapi/v3/recent.class.php
+  ./server/lib/restapi/v3/recording.class.php
+  ./server/lib/restapi/v3/restapicontrollersstorage.class.php
+  ./server/lib/restapi/v3/recordingstop.class.php
+  ./server/lib/restapi/v3/audiotrack.class.php
+  ./server/lib/restapi/v3/audioyears.class.php
+  ./server/lib/restapi/v3/restapiresource.class.php
+  ./server/lib/restapi/v3/moviequalities.class.php
+  ./server/lib/restapi/v3/tvchannelsadded.class.php
+  ./server/lib/restapi/v3/tvchannellink.class.php
+  ./server/lib/restapi/v3/tos.class.php
+  ./server/lib/restapi/v3/restapicontroller.class.php
+  ./server/lib/restapi/v3/audioartists.class.php
+  ./server/lib/restapi/v3/modules.class.php
+  ./server/lib/restapi/v3/playbacksession.class.php
+  ./server/lib/restapi/v3/karaokes.class.php
+  ./server/lib/restapi/v3/moviecategories.class.php
+  ./server/lib/restapi/v3/ping.class.php
+  ./server/lib/restapi/v3/audiotracklink.class.php
+  ./server/lib/restapi/v3/karaokegenres.class.php
+  ./server/lib/restapi/v3/mediainfo.class.php
+  ./server/lib/oauth/macaccesstype.class.php
+  ./server/lib/oauth/beareraccesstype.class.php
+  ./server/lib/oauth/authaccesshandler.class.php
+  ./server/lib/oauth/oauthserver.class.php
+  ./server/lib/oauth/developeraccesstype.class.php
+  ./server/lib/core/advertising.class.php
+  ./server/lib/core/databaseresult.class.php
+  ./server/lib/core/cacheresult.class.php
+  ./server/lib/core/smacaccess.class.php
+  ./server/lib/core/licensemanager.class.php
+  ./server/lib/core/mysqlresult.class.php
+  ./server/lib/core/stb.class.php
+  ./server/lib/core/mysql.class.php
+  ./server/lib/core/middleware.class.php
+  ./server/lib/core/dataloader.class.php
+  ./server/lib/core/config.class.php
+  ./server/lib/core/cache.class.php
+  ./server/api/sap.php
+  ./deploy/src/sap/1.0.0/stalker.api.js
+  ./deploy/src/sap/1.0.1/stalker.api.js
+  ./cert/public.key
+  3.3 IT IS STRICTLY PROHIBITED, AND YOU MAY NOT MODIFY, CHANGE, DECOMPILE, DISASSEMBLE, DECRYPT, AND PERFORM ANY OTHER ACTIONS WITH THE SOURCE AND/OR OBJECT CODE OF THE CORE, WHICH ARE AIMED AT OBTAINING INFORMATION ON THE IMPLEMENTATION OF THE ALGORITHMS USED IN THE CORE, AT CREATING MODIFICATIONS OR DERIVATIVE PRODUCTS BY USING THE CORE AS WELL AS AT FULFILLING (ALLOWING FULFILLING) ANY OTHER USE OF THE CORE WITHOUT THE LICENSOR'S PRIOR WRITTEN CONSENT. YOU AGREE THAT YOU SHALL MAKE NO COPIES OF THE SOURCE AND/OR OBJECT CODE OF THE CORE FOR ANY REASON. YOU AGREE NOT TO TRANSLATE, ADAPT, VARY, DISASSEMBLE, DECOMPILE OR REVERSE ENGINEER ANY OF THE FOREGOING WITHOUT LICENSOR'S PRIOR WRITTEN CONSENT WHICH MAY BE WITHHELD OR DENIED IN THE SOLE DISCRETION OF LICENSOR.
+  3.4 The restrictions of the use of the Program stipulated in paragraph 3.3 hereof will apply to the Core as a whole, as well as for each element (file) of the Core as defined in paragraph 3.2 hereof.
+
+4. Representations and Warranties
+  4.1 THERE IS NO WARRANTY FOR THE PROGRAM TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING, THE PROGRAM IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, QUALITY, PERFORMANCE OR NONINFRINGEMENT UPON THE PATENT, TRADEMARK, COPYRIGHT OR OTHER INTELLECTUAL PROPERTY RIGHTS OF ANY OTHER PARTY. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU. SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL THE NECESSARY SERVICING, REPAIR OR CORRECTION. LICENSOR MAKES NO WARRANTY THAT THE PROGRAM AND ALL OTHER MATERIAL RELATED THERETO WILL MEET YOUR SPECIFIC OBJECTIVES OR NEEDS OR THAT SAME WILL BE FREE FROM ERRORS OR BUGS. LICENSOR MAKES NO WARRANTY THAT THERE WILL BE UNINTERRUPTED OPERATION OF THE PROGRAM. YOU ACKNOWLEDGE AND AGREE THAT THE FOREGOING EXCLUSIONS AND DISCLAIMERS OF WARRANTIES ARE AN INTEGRAL PART OF THIS LICENSE AGREEMENT.
+  4.2 IN NO EVENT WILL LICENSOR BE LIABLE TO YOU FOR ANY DAMAGES, INCLUDING, BUT NOT LIMITED TO, ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM (INCLUDING, BUT NOT LIMITED TO, LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES INCURRED BY YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS), EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+  4.3 If the disclaimer of warranty and limitation of liability provided above cannot be given local legal effect according to their terms, reviewing courts shall apply local law that most closely approximates an absolute waiver of all civil liability in connection with the Program, unless a warranty or assumption of liability accompanies a copy of the Program.
+
+5. Licensor’s Intellectual Property
+  5.1 All right, title and interest in the intellectual property and proprietary rights in and to the Program are owned exclusively by Licensor and/or its affiliates, including all right, title and interest in any and all copyrights, patent rights, trade secrets, trademarks, service marks, trade names and any applications or registrations related thereto, and any other statutory or common law intellectual property rights related to the Program.
+  5.2 The license granted herein does not constitute a sale of the Program, or any portions or copies thereof.
+  5.3 The Program shall be used under the name Ministra TV platform. You shall not alter or remove any copyright or other proprietary right notices on or associated with the Program or allow any third party to do so. You must reproduce and include the copyright notice and any other proprietary notices that appear on the Program or any copy thereof.
+  5.2 All use by You of the Licensor’s intellectual property (including, but not limited to, the trademark “Ministra”) and any associated goodwill will inure solely to the Licensor’s benefit. You irrevocably cedes, assigns and transfers to the Licensor any right, title, and interest that the You may obtain in or to any of the Licensor’s intellectual property.
+  5.3 You shall not, at any time, challenge or assist others to challenge the validity of the Licensor’s intellectual property or their registration and shall not attempt to register any trade names, trademarks, service marks, logos or domain names confusingly similar to any of the Licensor’s intellectual property.
+
+6. Termination. Revocation of the License
+  6.1 In the event that You, (i) breach any of the terms and conditions of this License Agreement, or (ii) use the Program in a manner which is inconsistent with the license granted to You pursuant to this License Agreement, or (iii) You use the Program in a manner which is inconsistent with its intended purpose, or (iv) You attempt to assign, transfer or sublicense the Program or any portion thereof to any third party without the consent of the Licensor which may be withheld, delayed, denied or conditioned by Licensor in its sole discretion, or (v) You file a voluntary petition in bankruptcy, You make an assignment for the benefit of creditors, You apply for or consent to the appointment of a custodian, receiver, trustee or liquidator for all or part of Your assets, or an involuntary petition in bankruptcy is filed against You which is not discharged for a period of sixty (60) days, then Licensor may terminate this Agreement immediately upon the provision of notice to You. Upon termination of this Agreement, You must uninstall and delete all copies of the Program from Your personal computer and servers immediately.
+  6.2 Licensor may revoke the license granted hereunder at any time by provision of fourteen (14) days prior notice to You. Upon revocation of the license, You must uninstall and delete all copies of the Program from Your personal computer and servers immediately.
+
+7. Injunctive Relief
+  You acknowledge and agree that an actual or threatened violation by You of this Agreement will cause Licensor immediate and irreparable harm and injury which cannot be fully compensated by an award of damages or other remedies at law. Accordingly, You acknowledge and agree that in such case, Licensor shall be entitled, as a matter of right, to an injunction from any Court of competent jurisdiction restraining any further violation by You of this Agreement; such right to an injunction shall be cumulative and in addition to, but not in limitation of any other rights that Licensor may have against You, at law or in equity.
+
+8. Privacy Policy
+  8.1 You are hereby notified and agree that Licensor may, for the purposes of improving performance and compatibility of the Program, providing individual support, improving the experience of the Program use, preventing or addressing security or technical issues, or as otherwise required by law, collect, process, and store unique identifiers and other user information, which comprises account information, services usage information, contact information, log data, device information, geo-locational information, third-party services integrations.
+  8.2 The foregoing information may be also used for marketing or advertising purposes. You can opt out of these at any time by sending a notice to sales@infomir.eu.
+  8.3 Licensor receives user information from various sources, including information from:
+  Your requests for Licensor’s products and services;
+  Your use of the Program;
+  Your transactions with Licensor; and
+  Public and nonpublic information that You provide directly to Licensor.
+  8.4 Licensor uses user information that it has about You, as described above, to give You superior products and services, provide convenient access to products and services, and make a wider range of services available to You. Licensor may furnish Your user information to its service providers and generically to serve the function of what Licensor does. However, Licensor does not disclose Your specific nonpublic information to other third parties, except as otherwise described in this Agreement.
+  8.5 Licensor may disclose user information as permitted by law. For example, Licensor may share user information with regulatory authorities and law enforcement officials who have jurisdiction over Licensor or if Licensor is required to do so by the applicable law; provide user information to others to protect against fraud; and share user information with others with Your consent. Licensor also may share user information with firms it hires to market its services or with non-affiliated companies with whom Licensor has marketing agreements to provide You with offers of their services. These companies may receive user information, but they are restricted in its use and they are required to comply with all applicable federal, state and local laws.
+  8.6 When Licensor shares any user information with companies working on Licensor’s behalf, Licensor insists that such companies use this information only to provide the service that Licensor has asked them to perform. Within Licensor, user information is available only to those individuals who may need to see it to fulfill and service the needs of their customers or the general function of Licensor. Licensor communicates regarding the need to protect user information to all employees and agents, especially to those individuals who have access to it. In addition, Licensor has established and maintains physical, electronic, and procedural safeguards to protect user information.
+
+9. No Liability for Third Party Claims
+  Licensor shall not be liable for claims made against Licensor or You arising out of Your use of the Program and the materials related thereto and You hereby indemnify, defend and hold Licensor and its members, officers, directors, shareholders, employees, agents and affiliates harmless from and against any and all claims of every nature or type, that may be brought or asserted against Licensor or any of Licensor's members, officers, directors, shareholders, employees, agents and affiliates by any other party arising out of (i) Your use of the Program and/or the material related thereto, or (ii) Your breach of Your obligations, duties and responsibilities under this Agreement, or (iii) any breach or default under any representations, warranties, guaranties or other written or oral statements made by or on behalf of You or any person under Your control, including, without limitation, Your agents. This indemnification is cumulative and in addition to the indemnification obligations stipulated in paragraph 2.2 hereof.
+
+10. Notices
+  10.1 Any notice required to be given to Licensor under this Agreement or in connection with it, shall be in writing and shall be given to the appropriate party by personal delivery or by certified mail, postage prepaid, or recognized overnight delivery services to: Infomir SA, Route de Chêne 30, 1207 Geneva, Switzerland.
+  10.2 Any notice required to be given to You under this Agreement or in connection with it, may be given at Licensor’s discretion either (i) to Your email address You indicated during the request of the Program or registration in it or otherwise submitted to Licensor; or (ii) by a push notification in the Program interface; or (iii) to Your postal address You submitted to Licensor; or (iv) by personal delivery.
+
+11. Governing Law; Jurisdiction
+  This Agreement shall be construed and enforced in accordance with the laws of Switzerland, without regard to the conflict of law principles thereof. Each party agrees that the venue for any dispute that may arise out of or in relation to this Agreement or its formation, interpretation or enforcement shall be Canton of Geneva, Switzerland and agrees to submit to the exclusive jurisdiction of the courts of Canton of Geneva, Switzerland.
+
+12. No Assignment
+  Neither this Agreement nor any interest in this Agreement may be assigned or sublicensed by You without the prior express written approval of Licensor and any attempt by You to assign or sublicense this Agreement or any interest herein without the prior express written approval of Licensor shall be null, void and of no force and effect.
+
+13. Entire Agreement. Modification
+  13.1 This Agreement is the entire agreement between the parties hereto and terminates and supersedes all prior understandings or agreements on the subject matter hereof.
+  13.2 This Agreement may be modified by Licensor upon provision of a notice to You. In this event the modified Agreement will take effect seven (7) days upon provision of such a notice unless other term is specified in this notice. Any future use of the Program will be subject to the modified Agreement, and if You do not accept its terms, You must immediately cease use of the Program and delete all copies thereof.
+
+14. Severability
+  If this Agreement is held by a Court of competent jurisdiction to be invalid or unenforceable, then this Agreement, including all of the remaining terms, will remain in full force and effect as if such invalid or unenforceable term had never been included.
+
+15. Independent Contractor Status
+  The parties acknowledge and agree that Licensor and You are independent contractors and not agents, employees or representatives of each other. Neither party shall have the right to bind the other party to any obligations of any third parties. This Agreement shall not be deemed to constitute a franchise relationship between the parties hereto.
+
+16. Survival
+  Sections 2, 3.2-3.4, 4, 5, 7, 9, 10, 11, 16 shall survive any termination or expiration of this Agreement, indefinitely.
+
+17. No Waiver
+  No party's waiver of any breach or accommodation to the other party shall be deemed to be a waiver of any subsequent breach by a party.
+
+18. Headings; Interpretations; Counterparts
+  Headings used in this Agreement are provided for convenience only and shall not be used to construe meaning or intent. Except as otherwise provided herein, words used herein, regardless of the number and gender specifically used, shall be deemed and construed to include any other member, singular or plural, and any other gender, masculine, feminine or neuter, as the context indicates is appropriate. This Agreement may be executed in one or more counterparts, each of which will be deemed an original and all of which together shall constitute one and the same instrument.

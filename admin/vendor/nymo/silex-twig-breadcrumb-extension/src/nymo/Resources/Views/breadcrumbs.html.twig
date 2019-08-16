@@ -1,0 +1,22 @@
+<ul>
+    {% for breadcrumb in breadcrumbs %}
+
+        {% if loop.last %}
+            <li class="lastItem">
+        {% else %}
+            <li>
+        {% endif %}
+
+        {% if breadcrumb.target is null or loop.last %}
+            {% if translator %}
+                {% include 'translation.html.twig' %}
+            {% else %}
+                {{ breadcrumb.linkName }}
+            {% endif %}
+        {% else %}
+            <a href="{{ breadcrumb.target }}">{% if translator %}{% include 'translation.html.twig' %}{% else %}{{ breadcrumb.linkName }}{% endif %}</a>
+            {{ separator }}
+        {% endif %}
+        </li>
+    {% endfor %}
+</ul>
